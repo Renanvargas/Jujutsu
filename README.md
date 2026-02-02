@@ -33,7 +33,7 @@ cd /sdcard/Download && git clone https://github.com/TED-BOT-OFC/TED-BOT-V4.7
 ```
 **4° Comando**
 ```
-cd /sdcard/Download/TED-BOT-V4.7 && npm start
+cd /sdcard/Download/TED-BOT-V4.7 && npm install --force --no-bin-links && npm start
 ```
 
 ## 💾 START DO BOT 💾 <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
