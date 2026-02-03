@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <p>
-<img src= "https://xatimg.com/image/jpCuswA7o7ol.jpg" alt="Jujutsu 𝐁𝐎𝐓 𝐕𝟒.7" width="1080">
+<img src= "https://t2.pixhost.to/thumbs/5408/689995159_whatsapp_image.jpg" alt="Jujutsu 𝐁𝐎𝐓 𝐕𝟒.7" width="1080">
 </p>
 
 <p align="center">
