@@ -29,7 +29,7 @@ termux-setup-storage
 ```
 **3° Comando**
 ```
-cd /sdcard/Download && git clone 
+cd /sdcard/Download && git clone https://github.com/Renanvargas/Jujutsu
 ```
 **4° Comando**
 ```
