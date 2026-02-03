@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00008b&center=falso&vCenter=falso&lines=🜛+𝐓𝐄𝐃-𝐁𝐎𝐓-𝐕𝟒.7/+🜛;۞+𝙊𝙁𝘾+𝙐𝙋𝘿𝘼𝙏𝙀+۞;@𝙏𝙚𝙙𝙯𝙞𝙣𝙝𝙤">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00008b&center=falso&vCenter=falso&lines=🜛+Jujutsu-𝐁𝐎T-𝐕𝟒.7/+🜛;۞+𝙊𝙁𝘾+𝙐𝙋𝘿𝘼𝙏𝙀+۞;@R.V">      
 
 <h1 align="center">
 <p>
-<img src= "https://xatimg.com/image/jpCuswA7o7ol.jpg" alt="𝐓𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒.7" width="1080">
+<img src= "https://xatimg.com/image/jpCuswA7o7ol.jpg" alt="Jujutsu 𝐁𝐎𝐓 𝐕𝟒.7" width="1080">
 </p>
 
 <p align="center">
@@ -29,11 +29,11 @@ termux-setup-storage
 ```
 **3° Comando**
 ```
-cd /sdcard/Download && git clone https://github.com/TED-BOT-OFC/TED-BOT-V4.7
+cd /sdcard/Download && git clone 
 ```
 **4° Comando**
 ```
-cd /sdcard/Download/TED-BOT-V4.7 && npm install --force --no-bin-links && npm start
+cd /sdcard/Download/Jujutsu-BOT-V4.7 && npm install --force --no-bin-links && npm start
 ```
 
 ## 💾 START DO BOT 💾 <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
@@ -41,4 +41,4 @@ cd /sdcard/Download/TED-BOT-V4.7 && npm install --force --no-bin-links && npm st
 npm start
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00008b&center=falso&vCenter=falso&lines=╰•★𝐓𝐄𝐃-𝐁𝐎𝐓-𝐕𝟒.7★•╯"> 
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00008b&center=falso&vCenter=falso&lines=╰•★Jujtsu-𝐁𝐎𝐓-𝐕𝟒.7★•╯"> 
