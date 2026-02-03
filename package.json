@@ -16,7 +16,7 @@
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "npm install @whiskeysockets/baileys": "^7.0.0-rc.9",
     "acrcloud": "^1.4.0",
     "assemblyai": "^4.19.0",
     "axios": "^1.13.2",
